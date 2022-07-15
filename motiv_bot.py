@@ -3,10 +3,10 @@ import random
 import time
 
 # Setting a variable up with their respective keys given from twitter in order to make lines 10-12 work
-CONSUMER_KEY = 'iNnCHCS5pjjgKh9hoqJ5psT5P'
-CONSUMER_SECRET = 'tJOBLJcFZd7oY5N6mfQyohnbL4KrUj10BSAfAegaE6L3tR0NCm'
-ACCESS_KEY = '1394084456181518343-33iN78ZnSMh3996KlMBUUqJUy2Ibof'
-ACCESS_SECRET = 'bULYtarfOhy5VvQfEk9enMRYxerFLnnLWc6AjmR9uim1N'
+CONSUMER_KEY = '*'
+CONSUMER_SECRET = '*'
+ACCESS_KEY = '*'
+ACCESS_SECRET = '*'
 
 # Setting up auth object
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
